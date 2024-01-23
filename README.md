@@ -13,9 +13,11 @@ Derived equations of motion were integrated using a second order [Runge–Kutta]
 
 <ins>Equations of motion:</ins>
 
-$$\ddot{x} = \frac{\mu N}{m} $$
-$$\ddot{y} = (N/m) - g$$
-$$\ddot{\theta} = \frac{-2F}{mr}$$
+``` math
+\ddot{x} = \frac{\mu N}{m} //
+\ddot{y} = (N/m) - g //
+\ddot{\theta} = \frac{-2F}{mr}//
+```
 
 <ins>Secord order Runge-Kutta integration:</ins>
 
