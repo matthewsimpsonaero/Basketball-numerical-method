@@ -1,6 +1,6 @@
 # Basketball Numerical Method
 
-![Alt Text](https://github.com/matthewsimpsonaero/Basketball-numerical-method/blob/main/Final.gif =250x250)
+<img src="https://github.com/matthewsimpsonaero/Basketball-numerical-method/blob/main/Final.gif" alt="Alt Text" width="200" height="200"/>
 
 
 
