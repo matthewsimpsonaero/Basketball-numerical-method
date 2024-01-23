@@ -14,13 +14,13 @@ Derived equations of motion were integrated using a second order [Runge–Kutta]
 <ins>Equations of motion:</ins>
 
 ``` math
-\ddot{x} = \frac{\mu N}{m} //
+\ddot{x} = \frac{\mu N}{m} 
 ```
 ``` math
-\ddot{y} = (N/m) - g //
+\ddot{y} = (N/m) - g 
 ```
 ``` math
-\ddot{\theta} = \frac{-2F}{mr}//
+\ddot{\theta} = \frac{-2F}{mr}
 ```
 
 <ins>Secord order Runge-Kutta integration:</ins>
@@ -29,4 +29,10 @@ $$ x(t + \Delta T) = x(t) + f \Delta T \left[ \frac{\partial f}{\partial x} f + 
 
 where 
 
-$$ \Delta T = \alpha + \beta     $$        $$ \beta = \frac{\Delta T}{2}$$
+``` math
+ \Delta T = \alpha + \beta   
+```  
+
+``` math
+\beta = \frac{\Delta T}{2}$$
+```
