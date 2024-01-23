@@ -1,7 +1,7 @@
 # Basketball Numerical Method
 
 <p align="center">
-    <img src="https://github.com/matthewsimpsonaero/Basketball-numerical-method/blob/main/Final.gif" alt="Alt Text" width="300" height="200"/>
+    <img src="https://github.com/matthewsimpsonaero/Basketball-numerical-method/blob/main/Final.gif" alt="Alt Text" width="400" height="300"/>
 </p>
 
 
